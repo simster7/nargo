@@ -3,6 +3,6 @@ package main
 import "fmt"
 
 func main() {
-    fmt.Println("Hello, world. Version v0.1.1")
+    fmt.Println("Hello, world. Version v2.0.1")
 }
 
